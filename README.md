@@ -13,3 +13,8 @@ This is the starting place in conjunction with my **Redux Toolkit** comparison v
 ## How do I start the app??
 
 Go to the root directly, open up the terminal, and type `npm start`
+
+## Credits
+
+all credits to Justin Kim
+video link: https://www.youtube.com/watch?v=9lCmbth63k0&t=5738s
